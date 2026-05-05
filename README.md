@@ -4,7 +4,7 @@
 
 Membros do Grupo
 Marcus Vinicius Gomes de Oliveira
-Guilherme Novais de Souza
+/ Guilherme Novais de Souza
 
 Explicação do Sistema
 
